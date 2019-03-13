@@ -1,4 +1,4 @@
-# A Python Project to interact with Google Map API 
+# A Python Application to return queries for any kind of questions
 ## This is a simple python project which uses *WolframAlpha* API 
 
 Before running the application make sure to install wolframalpha and wikipedia using the pip command
